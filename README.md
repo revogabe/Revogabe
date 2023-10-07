@@ -1,8 +1,8 @@
 Hello, my name is Daniel.
 
-I'm a Swift developer, based in São Paulo, Brazil. I'm passionate about the Swift universe, design and user experience/development.
+I'm a Software Engineer, based in São Paulo, Brazil. I'm passionate about the Swift universe, design and user experience/development.
 
-I am currently looking for an opportunity to enter the market. However, I am also the founder of [@Semgula](#), a platform that brings technology to restaurants and places them in the digital world.
+I am currently looking for an opportunity to enter the market. However, I am also the founder of [@Comaqui](#), a platform that brings technology to restaurants and places them in the digital world.
 
 ---
 - 💻 Live coding on [Twitch @revogabe](https://www.twitch.tv/revogabe)
